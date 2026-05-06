@@ -92,7 +92,7 @@ The project follows a five-stage machine learning pipeline including preprocessi
 
 Comparison of ROC curves across all evaluated machine learning models.
 
-![ROC Curve](images/roc_curve_comparison.png)
+![ROC Curve](images/roc_curve.png)
 
 ---
 
@@ -100,7 +100,7 @@ Comparison of ROC curves across all evaluated machine learning models.
 
 Precision-Recall curves provide a more reliable evaluation under severe class imbalance conditions.
 
-![PR Curve](images/pr_curve_comparison.png)
+![PR Curve](images/pr_curve.png)
 
 ---
 
