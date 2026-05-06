@@ -190,6 +190,7 @@ pip install -r requirements.txt
 - Burcu Kösedağı
 - Dila Öykü Eyüboğlu
 
+
 Department of Computer Engineering  
 Istanbul Ticaret University
 
